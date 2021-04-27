@@ -20,7 +20,7 @@
     "forever-monitor": "^2.0.0",
     "method-override": "2.3.9",
     "mongoose": "4.12.1",
-    "redis": "2.8.0",
+    "redis": "3.1.1",
     "socket.io": "2.0.3",
     "socket.io-redis": "5.2.0"
   },
